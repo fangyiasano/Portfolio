@@ -1,4 +1,4 @@
-> ### Project 1: Ski Resorts Data Analytics APP
+[> ### Project 1: Ski Resorts Data Analytics APP](https://github.com/fangyiasano/Ski-resorts-app-)
 
 * This application is designed to provide interactive visual analytics for ski resorts wordwide, integrating multiple metrics such as elevation, price, slope length, and snow cannons availability.
 
