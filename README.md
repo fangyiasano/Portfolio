@@ -5,7 +5,7 @@
  ![ScreenRecording2024-08-21at23 17 49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/16d95ede-6f70-4b1c-ac0a-078c6d437ca8)
  ![ScreenRecording2024-08-21at23 28 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aa1572ee-6dfe-493d-a5fc-db923a0e8b3b)
 
-> ### Project 2: Building Automated Data Pipelines with Apache Airflow
+> ### [Project 2: Building Automated Data Pipelines with Apache Airflow](https://github.com/fangyiasano/AWS-Data-pipeline-for-music-streaming-company)
 
 ![dag_graph](https://github.com/user-attachments/assets/9e1eb3a5-6d35-4161-9707-25f7832d3914)
 
@@ -13,19 +13,19 @@
 
 * Key operations include extracting JSON-formatted user activity logs and song metadata from S3, transforming this data into a structured format in Redshift, and performing comprehensive post-load quality checks to ensure data integrity and reliability.
 
-> ### Project 3: AWS Data Lakehouse for Human Balance Analytics
+> ### [Project 3: AWS Data Lakehouse for Human Balance Analytics](https://github.com/fangyiasano/AWS-Data-Lakehouse-for-Machine-Learning)
 
 ![chart](https://github.com/user-attachments/assets/ba049a68-7d06-4042-b61e-9a9a155a938d)
 
 * This project contains the implementation of a data lakehouse solution for the Step Trainer sensor data. The project focuses on using AWS services and Apache Spark to process and curate data from a motion-sensing device and a mobile app to train a machine learning model to detect steps accurately.
 
-> ### Project 4: AWS Data Warehouse for Music Streaming Company
+> ### [Project 4: AWS Data Warehouse for Music Streaming Company](https://github.com/fangyiasano/AWS-Data-Warehouses-for-music-streaming-company)
 
 <img width="831" alt="image" src="https://github.com/user-attachments/assets/e17fc8cd-43fe-401f-a5a1-9e64397a3eff">
 
 * This project entails building an ETL pipeline that extracts music streaming data from AWS S3, stages it in AWS Redshift, and transforms it into a set of dimensional tables for the analytics team at Sparkify. This enables the team to gain insights into user activities on the music streaming app.
 
-> ### Project 5: Predicting Real Estate Prices Using Machine Learning
+> ### [Project 5: Predicting Real Estate Prices Using Machine Learning](https://github.com/fangyiasano/Predicting-Real-Estate-Prices-Using-Machine-Learning)
 
 * We developed a machine learning model to predict real estate prices, aimed at providing investors and real estate developers with a powerful tool to more accurately assess market risks and opportunities.
 * By utilizing MIS and MIC scores, we identified the key factors influencing real estate prices and further validated the importance of these factors through machine learning model.
