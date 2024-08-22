@@ -1,6 +1,9 @@
 > ### Project 1: Ski Resorts Data Analytics APP
 
 * This application is designed to provide interactive visual analytics for ski resorts wordwide, integrating multiple metrics such as elevation, price, slope length, and snow cannons availability.
+ ![ScreenRecording2024-08-21at23 17 49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/16d95ede-6f70-4b1c-ac0a-078c6d437ca8)  
+
+ ![ScreenRecording2024-08-21at23 28 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/aa1572ee-6dfe-493d-a5fc-db923a0e8b3b)
 
 > ### Project 2: Building Automated Data Pipelines with Apache Airflow
 
