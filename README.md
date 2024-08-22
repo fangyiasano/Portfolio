@@ -21,7 +21,7 @@
 
 > ### [Project 4: AWS Data Warehouse for Music Streaming Company](https://github.com/fangyiasano/AWS-Data-Warehouses-for-music-streaming-company)
 
-<img width="831" alt="image" src="https://github.com/user-attachments/assets/e17fc8cd-43fe-401f-a5a1-9e64397a3eff">
+![chart10](https://github.com/user-attachments/assets/67b3347b-4277-4c03-9f35-ab7e7fe9a82e)
 
 * This project entails building an ETL pipeline that extracts music streaming data from AWS S3, stages it in AWS Redshift, and transforms it into a set of dimensional tables for the analytics team at Sparkify. This enables the team to gain insights into user activities on the music streaming app.
 
